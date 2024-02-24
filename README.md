@@ -1,2 +1,3 @@
 # goutils
-A simple collection of Go utilities that I reuse quite a bit.
+
+A simple collection of Go utilities for reuse in projects.
